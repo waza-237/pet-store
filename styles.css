@@ -98,8 +98,10 @@ footer .footer-links a {
     font-size: 0.85rem;
 }
 
-footer .footer-links a:hover {
-    text-decoration: underline;
+footer .footer-copy {
+    margin-top: 15px;
+    font-size: 0.8rem;
+    color: #8a7560;
 }
 
 /* =====================
